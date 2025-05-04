@@ -1,0 +1,33 @@
+EPilots A system to predict hard landing during the approach phase of commercial flights
+
+
+IEEE Access On Machine Learning,Volume:10,Issue Date:05-Jul-2022
+
+Decision support systems, Hard landing prediction, Machine learning, Neural networks
+
+EPilots
+
+
+epilots
+
+
+epilots_landing_type
+
+
+Activity_Id
+Landing_Airport
+Airline_Name
+Operating_Airline_IATA_Code
+Landing_Date
+Published_Airline
+Published_Airline_IATA_Code
+GEO_Summary
+GEO_Region
+Landing_Aircraft_Type
+Aircraft_Body_Type
+Aircraft_Manufacturer
+Aircraft_Model
+Aircraft_Version
+Landing_Count
+Total_Landed_Weight
+Prediction
